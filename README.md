@@ -60,14 +60,13 @@ This project is free to use for personal, educational, and non-commercial purpos
 # 🙏 Acknowledgements
 <p>Air Canvas is a group project created by a team of undergraduate students as part of our coursework,
 emphasizing teamwork and creativity in applying computer vision concepts.<br>
- ## 👥 Team Members
 
-This project was developed as a group effort by the following team members:
+This project was developed by the following team members:
 
 - @Ruhetarannum (https://github.com/Ruhetarannum)
 - @sadiyatahseen555 (https://github.com/sadiyatahseen555)  
 - @AmreenNeema (https://github.com/AmreenNeema)
-- @teammate3  
+- @Shahid110604 (https://github.com/Shahid110604) 
 
 MediaPipe by Google<br>
 OpenCV</p>
